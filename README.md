@@ -132,5 +132,13 @@ By opening a PR to add your project, you authorize and license Coinbase on a non
 - Active development and community engagement can be observed without issue
 
 ---
+## Local development (web)
+
+### Setup
+
+1. Install dependencies:
+```bash
+yarn install
+```
 
 If you have any questions, please reach out to us in #developer-chat in the [Base Discord](https://base.org/discord).
